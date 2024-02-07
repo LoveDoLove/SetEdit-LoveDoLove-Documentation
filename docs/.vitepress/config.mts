@@ -2,6 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/SetEdit-LoveDoLove-Documentation/",
+  ignoreDeadLinks: true,
   title: "SetEdit LoveDoLove Documentation",
   description: "SetEdit LoveDoLove Documentation",
   themeConfig: {
