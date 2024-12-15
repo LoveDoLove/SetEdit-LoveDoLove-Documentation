@@ -15,7 +15,7 @@ hero:
       link: https://github.com/LoveDoLove
     - theme: secondary
       text: Youtube
-      link: https://www.youtube.com/@lovedoloveofficial
+      link: https://www.youtube.com/@lovedolove
 
 features:
   - title: Shell Terminal
