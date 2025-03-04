@@ -36,7 +36,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/LoveDoLove" },
-      { icon: "youtube", link: "https://www.youtube.com/@lovedoloveofficial" },
+      { icon: "youtube", link: "https://www.youtube.com/@lovedolove" },
     ],
   },
 });
